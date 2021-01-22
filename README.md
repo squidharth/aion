@@ -38,7 +38,7 @@ using Timers in the Google Workspace.
 
 2. Copy all of the source code
 
-    1. Select all of the contents in [Code.gs](#) and copy it to the file with
+    1. Select all of the contents in [Code.gs](./Code.gs) and copy it to the file with
        the same name in your project.
 
 3. Set a schedule for recurring execution
