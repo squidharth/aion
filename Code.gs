@@ -3,7 +3,7 @@
  * 
  * 1. Number of days to include in the future: 14
  * 2. The meeting is a recurring meeting.
- * 3. The meeting has been accepted by the owner of this script.
+ * 3. The meeting has not been accepted by the owner of this script.
  *
  * 
  */
