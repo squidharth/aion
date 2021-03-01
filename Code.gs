@@ -36,7 +36,8 @@ function setMeetingTimeAsAvailable() {
               
               eventItem.transparency = 'transparent';
               Calendar.Events.update(eventItem, calendarID, eventItem.id);
-              Logger.log("Event = " + eventItem.summary + "    " + eventItem.start.dateTime);
+              Logger.log("Meeting Name:  " + eventItem.summary + 
+                "    " + "Schedule Date: " + eventItem.start.dateTime);
         }
       }
     }
